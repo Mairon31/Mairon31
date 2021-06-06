@@ -1,4 +1,4 @@
-## <i class="fab fa-code" aria-hidden="true"></i> · Hello World
+## 👋 · Hello World
 
 This is my temporary page while I develop one in HTML and CSS.
 
