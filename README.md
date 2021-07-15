@@ -27,6 +27,8 @@ Are you interested in contacting me for a project or help? write me at **mairon3
 <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
 </a> <a href="https://vercel.com/mairon">
 <img alt="Vercel" src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a> <a href="https://dev.to/mairon31">
+<img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
 </a>
 
 ----
