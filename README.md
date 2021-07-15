@@ -1,7 +1,6 @@
 ## 👋 · Hello World
 
-This is my temporary page while I develop one in HTML and CSS.
-
+This is a page about me, from github.
 ----
 
 ### 📩 · Contact
