@@ -31,6 +31,8 @@ Are you interested in contacting me for a project or help? write me at **mairon3
 <img alt="Blogger" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
 </a> <a href="https://dev.to/mairon31">
 <img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+</a> <a href="https://account.xbox.com/en-us/profile?gamertag=Mairon316610">
+<img alt="Xbox" src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white"/>
 </a>
 
 ----
